@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Eletrônicos",
+    "description": "Produtos eletrônicos como smartphones, tablets e laptops",
+    "createdAt": "2024-01-01T10:00:00.000Z",
+    "updatedAt": "2024-01-01T10:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "name": "Livros",
+    "description": "Livros de diversos gêneros e autores",
+    "createdAt": "2024-01-01T10:00:00.000Z",
+    "updatedAt": "2024-01-01T10:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "name": "Roupas",
+    "description": "Roupas masculinas, femininas e infantis",
+    "createdAt": "2024-01-01T10:00:00.000Z",
+    "updatedAt": "2024-01-01T10:00:00.000Z"
+  }
+]

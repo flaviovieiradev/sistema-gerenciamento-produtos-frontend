@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphone XYZ",
+    "description": "Smartphone com 128GB de armazenamento e 8GB de RAM",
+    "price": 1999.99,
+    "stock": 15,
+    "categoryId": 1,
+    "createdAt": "2024-01-01T10:00:00.000Z",
+    "updatedAt": "2024-01-01T10:00:00.000Z",
+    "category": {
+      "id": 1,
+      "name": "Eletrônicos",
+      "description": "Produtos eletrônicos como smartphones, tablets e laptops"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Laptop ABC",
+    "description": "Laptop com processador i7, 16GB de RAM e 512GB SSD",
+    "price": 4599.99,
+    "stock": 8,
+    "categoryId": 1,
+    "createdAt": "2024-01-01T10:00:00.000Z",
+    "updatedAt": "2024-01-01T10:00:00.000Z",
+    "category": {
+      "id": 1,
+      "name": "Eletrônicos",
+      "description": "Produtos eletrônicos como smartphones, tablets e laptops"
+    }
+  },
+  {
+    "id": 3,
+    "name": "O Senhor dos Anéis",
+    "description": "Trilogia completa em capa dura",
+    "price": 149.90,
+    "stock": 20,
+    "categoryId": 2,
+    "createdAt": "2024-01-01T10:00:00.000Z",
+    "updatedAt": "2024-01-01T10:00:00.000Z",
+    "category": {
+      "id": 2,
+      "name": "Livros",
+      "description": "Livros de diversos gêneros e autores"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Camiseta Casual",
+    "description": "Camiseta de algodão, cor preta, diversos tamanhos",
+    "price": 59.90,
+    "stock": 50,
+    "categoryId": 3,
+    "createdAt": "2024-01-01T10:00:00.000Z",
+    "updatedAt": "2024-01-01T10:00:00.000Z",
+    "category": {
+      "id": 3,
+      "name": "Roupas",
+      "description": "Roupas masculinas, femininas e infantis"
+    }
+  }
+]
