@@ -111,7 +111,7 @@ Antes de executar o projeto, certifique-se de ter:
 ### 1. Instalação
 ```bash
 # Clone o repositório
-git clone https://github.com/flaviovieiradev/sistema-gerenciamento-produtos-frontend-api
+git clone https://github.com/flaviovieiradev/sistema-gerenciamento-produtos-frontend.git
 cd frontend
 
 # Instale as dependências
